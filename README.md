@@ -44,7 +44,7 @@ Check out my pinned repositories for:
 
 - GPI-Sonatrach ( Native php / mvc / jquery )
 - Suivi-Express with Real-time Communication ( React js / laravel / mysql )
-- Fast-Delivery ( React js / Inertia.js / laravel / mysql ) (commung soon...)
+- Fast-Delivery ( React js / Inertia.js / laravel / mysql ) (coming soon...)
 
 ---
 

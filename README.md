@@ -1,88 +1,59 @@
-<h1 align="center">Hi 👋, I'm Iskander Bentaleb</h1>
-<h3 align="center">Full-Stack Developer | Database Specialist | Laravel & React Enthusiast</h3>
+# 👋 Hello, I'm Iskander!
 
-<p align="center">
-  <a href="https://linkedin.com/in/iskander-bentaleb-b12005230" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/iskanderbentaleb" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iskanderbentaleb&label=Profile%20views&color=0e75b6&style=flat" alt="iskanderbentaleb" /> 
-  <img src="https://img.shields.io/github/followers/iskanderbentaleb?label=Follow&style=social" alt="GitHub followers"/>
-</p>
+I'm a passionate **full-stack developer** with a solid foundation in **database systems** and modern **web development**.
 
 ---
 
-### 🚀 About Me
+### 🎓 My Background
 
-```javascript
-const iskander = {
-  pronouns: "he" | "him",
-  education: "Technicien Supérieur en Informatique (Database Systems)",
-  currentFocus: "Building full-stack applications with Laravel & React",
-  passions: ["Clean Architecture", "SPA Development", "Database Design"],
-  funFact: "I enjoy turning complex problems into elegant solutions"
-};
+I studied **Technicien Supérieur en Informatique**, specializing in **Base de Données** (Database Systems).  
+During this 2-year program, I built desktop applications using tools like **Pascal** and **Delphi**.
 
+---
 
-🛠️ Tech Stack
-📚 Core Technologies
-Laravel
+### 💻 Self-Taught Web Developer
 
-React
+Outside of school, I taught myself modern web technologies:
 
-PHP
+- **Frontend:**  
+  HTML, CSS, JavaScript, jQuery, React.js
 
-JavaScript
+- **Backend:**  
+  PHP, Laravel (MVC architecture & OOP), MySQL
 
-MySQL
+- **Full-Stack Tools:**  
+  - 🔐 Laravel Sanctum – API authentication  
+  - ⚙️ Inertia.js – for building powerful SPAs  
+  - 📦 Clean separation between frontend & backend  
 
-🎨 Frontend
-HTML5
+---
 
-CSS3
+### ⚙️ What I Can Do
 
-TailwindCSS
+- Build robust full-stack apps with **Laravel + React.js**
+- Develop efficient **Single Page Applications (SPAs)**
+- Use **Laravel MVC** and design scalable **RESTful APIs**
+- Implement **authentication** and **real-time messaging**
+- Organize clean, maintainable, and scalable architecture
 
-jQuery
+---
 
-⚙️ Backend & Tools
-Inertia.js
+### 🚀 Projects
 
-Laravel Sanctum
+Check out my pinned repositories for:
 
-Git
+- 📦 Inventory Management System  
+- ✉️ Real-time Communication App  
+- 📍 Parcel Tracking System  
 
-Postman
+Each project reflects my dedication to clean code, usability, and efficient performance.
 
-📊 GitHub Stats
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iskanderbentaleb&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iskanderbentaleb&theme=radical" /> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderbentaleb&layout=compact&theme=radical" /> <img width="48%" src="https://github-profile-trophy.vercel.app/?username=iskanderbentaleb&theme=radical&margin-w=15" /> </p>
-🔥 Recent Projects
-🏷️ Inventory Management System
-Laravel backend with React frontend
+---
 
-Real-time updates with Inertia.js
+### 🤝 Let's Connect
 
-Role-based authentication
+I'm always open to learning, collaborating, and building meaningful projects.
 
-📦 Parcel Tracking System
-Custom API development
+📫 Reach out via [LinkedIn](https://linkedin.com/in/iskander-bentaleb-b12005230) or [email](mailto:your-email@example.com)
 
-MySQL database design
-
-Responsive UI with TailwindCSS
-
-💬 Real-time Communication App
-WebSocket implementation
-
-Laravel Echo for real-time events
-
-React frontend with state management
-
-📫 Let's Connect
-<p align="center"> <a href="https://linkedin.com/in/iskander-bentaleb-b12005230" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/> </a> <a href="mailto:your-email@example.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/> </a> </p> <p align="center"> <i>Open to collaborations and interesting projects!</i> 👨‍💻 </p> ```
-
+---

@@ -2,10 +2,10 @@
 <h3 align="center">Full-Stack Developer | Database Specialist | Laravel & React Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/iskander-bentaleb-b12005230" target="blank">
+  <a href="https://linkedin.com/in/iskander-bentaleb-b12005230" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/iskanderbentaleb" target="blank">
+  <a href="https://github.com/iskanderbentaleb" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -27,28 +27,40 @@ const iskander = {
   passions: ["Clean Architecture", "SPA Development", "Database Design"],
   funFact: "I enjoy turning complex problems into elegant solutions"
 };
+
+
 🛠️ Tech Stack
 📚 Core Technologies
 Laravel
+
 React
+
 PHP
+
 JavaScript
+
 MySQL
 
 🎨 Frontend
 HTML5
+
 CSS3
+
 TailwindCSS
+
 jQuery
 
 ⚙️ Backend & Tools
 Inertia.js
+
 Laravel Sanctum
+
 Git
+
 Postman
 
 📊 GitHub Stats
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iskanderbentaleb&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iskanderbentaleb&theme=radical" /> </p><p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderbentaleb&layout=compact&theme=radical" /> <img width="48%" src="https://github-profile-trophy.vercel.app/?username=iskanderbentaleb&theme=radical&margin-w=15" /> </p>
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iskanderbentaleb&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iskanderbentaleb&theme=radical" /> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iskanderbentaleb&layout=compact&theme=radical" /> <img width="48%" src="https://github-profile-trophy.vercel.app/?username=iskanderbentaleb&theme=radical&margin-w=15" /> </p>
 🔥 Recent Projects
 🏷️ Inventory Management System
 Laravel backend with React frontend
@@ -72,22 +84,5 @@ Laravel Echo for real-time events
 React frontend with state management
 
 📫 Let's Connect
-<p align="center"> <a href="https://linkedin.com/in/iskander-bentaleb-b12005230" target="blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/> </a> <a href="mailto:your-email@example.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/> </a> </p><p align="center"> <i>Open to collaborations and interesting projects!</i> 👨‍💻 </p> ```
-To use this:
-
-Create a new repository with your GitHub username (must match exactly)
-
-Add a README.md file
-
-Paste this entire code
-
-Commit the changes
-
-The profile will automatically appear on your GitHub account. You may want to:
-
-Replace "your-email@example.com" with your actual email
-
-Update the project details with links to your actual projects
-
-Customize any sections to better reflect your personality
+<p align="center"> <a href="https://linkedin.com/in/iskander-bentaleb-b12005230" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/> </a> <a href="mailto:your-email@example.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/> </a> </p> <p align="center"> <i>Open to collaborations and interesting projects!</i> 👨‍💻 </p> ```
 

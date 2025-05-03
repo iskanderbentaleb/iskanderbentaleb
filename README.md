@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Iskander!
+# 👋 Hello, I'm Bentaleb Iskander!
 
 I'm a passionate **full-stack developer** with a solid foundation in **database systems** and modern **web development**.
 
@@ -42,11 +42,9 @@ Outside of school, I taught myself modern web technologies:
 
 Check out my pinned repositories for:
 
-- 📦 Inventory Management System  
-- ✉️ Real-time Communication App  
-- 📍 Parcel Tracking System  
-
-Each project reflects my dedication to clean code, usability, and efficient performance.
+- GPI-Sonatrach ( Native php / mvc / jquery )
+- Suivi-Express with Real-time Communication ( React js / laravel / mysql )
+- Fast-Delivery ( React js / Inertia.js / laravel / mysql ) (commung soon...)
 
 ---
 
@@ -54,6 +52,6 @@ Each project reflects my dedication to clean code, usability, and efficient perf
 
 I'm always open to learning, collaborating, and building meaningful projects.
 
-📫 Reach out via [LinkedIn](https://linkedin.com/in/iskander-bentaleb-b12005230) or [email](mailto:your-email@example.com)
+📫 Reach out via [LinkedIn](https://linkedin.com/in/iskander-bentaleb-b12005230) or [email](mailto:iskanderboss1999@gmail.com)
 
 ---

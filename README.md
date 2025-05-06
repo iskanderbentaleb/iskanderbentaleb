@@ -22,7 +22,7 @@ Outside of school, I taught myself modern web technologies:
   PHP, Laravel (MVC architecture & OOP), MySQL
 
 - **Full-Stack Tools:**  
-  - 🔐 Laravel Sanctum – API authentication  
+  - 🔐 Laravel Sanctum – API authentication ( JWT )
   - ⚙️ Inertia.js – for building powerful SPAs  
   - 📦 Clean separation between frontend & backend  
 

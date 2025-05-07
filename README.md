@@ -6,25 +6,25 @@ I'm a passionate **full-stack developer** with a solid foundation in **database 
 
 ### 🎓 My Background
 
-I studied **"Technicien Supérieur en Informatique Option : Base de Données"** .  
-During this 2-year program, I learned how to built desktop applications using tools like **Pascal** and **Delphi** with **SQL server**. 
+I studied **"Technicien Supérieur en Informatique - Option : Base de Données"**.  
+During this 2-year program, I learned to build desktop applications using tools like **Pascal**, **Delphi**, and **SQL Server**.
 
 ---
 
 ### 💻 Self-Taught Web Developer
 
-Outside of school, I taught myself modern web technologies:
+I taught myself modern web technologies:
 
 - **Frontend:**  
-  HTML, CSS, JavaScript, jQuery, React.js
+  HTML, CSS, JavaScript, jQuery, AJAX, React.js
 
 - **Backend:**  
   PHP, Laravel (MVC architecture & OOP), MySQL
 
 - **Full-Stack Tools:**  
-  - 🔐 Laravel Sanctum – API authentication ( JWT )
-  - ⚙️ Inertia.js – for building powerful SPAs  
-  - 📦 Clean separation between frontend & backend  
+  - 🔐 Laravel Sanctum – API authentication (JWT), RESTful APIs  
+  - ⚙️ Inertia.js – Build powerful SPAs without the complexity  
+  - 📦 Clean separation of concerns between frontend & backend
 
 ---
 
@@ -32,9 +32,9 @@ Outside of school, I taught myself modern web technologies:
 
 - Build robust full-stack apps with **Laravel + React.js**
 - Develop efficient **Single Page Applications (SPAs)**
-- Use **Laravel MVC** and design scalable **RESTful APIs**
+- Design scalable **RESTful APIs** using **Laravel MVC**
 - Implement **authentication** and **real-time messaging**
-- Organize clean, maintainable, and scalable architecture
+- Structure clean, maintainable, and scalable architecture
 
 ---
 
@@ -42,9 +42,9 @@ Outside of school, I taught myself modern web technologies:
 
 Check out my pinned repositories for:
 
-- GPI-Sonatrach ( Native php / mvc / jquery )
-- Suivi-Express with Real-time Communication ( React js / laravel / mysql )
-- Fast-Delivery ( React js / Inertia.js / laravel / mysql ) (coming soon...)
+- **GPI-Sonatrach** – PHP Native / MVC / jQuery  
+- **Suivi-Express** – Real-time Communication (React.js / Laravel / MySQL / Pusher)  
+- **Fast-Delivery** – (React.js / Inertia.js / Laravel / MySQL) *(coming soon...)*
 
 ---
 

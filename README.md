@@ -7,7 +7,7 @@ I'm a passionate **full-stack developer** with a solid foundation in **database 
 ### 🎓 My Background
 
 I studied **"Technicien Supérieur en Informatique Option : Base de Données"** .  
-During this 2-year program, I learn how to built desktop applications using tools like **Pascal** and **Delphi** with **SQL server**.
+During this 2-year program, I learned how to built desktop applications using tools like **Pascal** and **Delphi** with **SQL server**. 
 
 ---
 

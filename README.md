@@ -42,9 +42,9 @@ I taught myself modern web technologies:
 
 Check out my pinned repositories for:
 
-- **GPI-Sonatrach** – PHP Native / MVC / jQuery  
-- **Suivi-Express** – Real-time Communication (React.js / Laravel / MySQL / Pusher)  
-- **Fast-Delivery** – (React.js / Inertia.js / Laravel / MySQL) *(coming soon...)*
+- **GPI-Sonatrach** – PHP Native / MVC / jQuery 
+- **Suivi-Express** – Real-time Communication (React.js / Laravel 11 / MySQL / Pusher)  
+- **Fast-Delivery** – (React.js / Inertia.js / Laravel 12 / MySQL)
 
 ---
 

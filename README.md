@@ -16,10 +16,10 @@ During this 2-year program, I learned to build desktop applications using tools 
 I taught myself modern web technologies:
 
 - **Frontend:**  
-  HTML, CSS, JavaScript, jQuery, AJAX, React.js
+  HTML, CSS, JavaScript , typescript , jQuery, AJAX, React.js
 
 - **Backend:**  
-  PHP, Laravel (MVC architecture & OOP), MySQL
+  PHP, Laravel (MVC architecture & OOP), MySQL , supabase
 
 - **Full-Stack Tools:**  
   - 🔐 Laravel Sanctum – API authentication (JWT), RESTful APIs  
@@ -44,7 +44,7 @@ Check out my pinned repositories for:
 
 - **GPI-Sonatrach** – PHP Native / MVC / jQuery 
 - **Suivi-Express** – Real-time Communication (React.js / Laravel 11 / MySQL / Pusher)  
-- **Fast-Delivery** – (React.js / Inertia.js / Laravel 12 / MySQL)
+- **Fast-Delivery** – (React.js with typescript / Inertia.js / Laravel 12 / MySQL)
 
 ---
 
